@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![wisdom209](https://circleci.com/gh/wisdom209/containerization_project.svg?style=svg)](https://circleci.com/gh/wisdom209/containerization_project)
 
 ## Project Overview
 
