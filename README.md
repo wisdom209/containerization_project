@@ -23,6 +23,20 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 
 ---
 
+## Files in the repository
+
+1. docker_out.txt - log output of running a prediction using a docker container
+2. kubernetes_out.txt - log output of running a prediction after building a kubernetes pod
+3. app.py - driving code for predictions
+4. model_data directory holds files from which prediction models are tken
+5. Dockerfile - template for building a docker containter
+6. make_predictions.sh - script to run for making predictions
+7. Makefile - for automating build processes
+8. README.md - explains the purpose of the project
+9. run_docker.sh - script for running the docker container
+10. run_kubernetes.sh - script for containerizing application using kubernetes
+11. upload_docker.sh - script to upload docker container to dockerhub
+
 ## Setup the Environment
 
 * Create a virtualenv with Python 3.7 and activate it. Refer to this link for help on specifying the Python version in the virtualenv. 
